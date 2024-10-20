@@ -71,7 +71,7 @@ button {
     /*transition: all 0.3s ease 0s;*/
 }
 
-imageFix {
+.imageFix {
     height: 85px;
     width: 85px;
 }
